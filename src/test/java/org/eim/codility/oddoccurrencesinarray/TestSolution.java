@@ -1,5 +1,6 @@
 package org.eim.codility.oddoccurrencesinarray;
 
+import org.eim.codility.AbstractTest;
 import org.junit.Before;
 import org.junit.Test;
 

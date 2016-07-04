@@ -11,7 +11,7 @@ import static org.junit.Assert.assertEquals;
  */
 public class TestFish {
 
-  private Solution sol;
+  protected Solution sol;
 
   @Before
   public void setUp() {
